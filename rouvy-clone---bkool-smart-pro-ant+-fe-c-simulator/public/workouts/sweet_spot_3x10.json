@@ -1,0 +1,52 @@
+{
+  "id": "sweet_spot_3x10",
+  "name": "Sweet Spot 3x10 min (Umbral Aeróbico)",
+  "description": "Series continuas al 90% de FTP para construir base aeróbica sólida.",
+  "author": "Rouvy Training Lab",
+  "ftp": 250,
+  "totalDuration_s": 2700,
+  "intervals": [
+    {
+      "name": "Calentamiento Progresivo",
+      "duration_s": 360,
+      "target_watts": 140,
+      "zone": "Z2"
+    },
+    {
+      "name": "Sweet Spot Bloque 1",
+      "duration_s": 600,
+      "target_watts": 225,
+      "zone": "Z4"
+    },
+    {
+      "name": "Recuperación 1",
+      "duration_s": 240,
+      "target_watts": 130,
+      "zone": "Z1"
+    },
+    {
+      "name": "Sweet Spot Bloque 2",
+      "duration_s": 600,
+      "target_watts": 225,
+      "zone": "Z4"
+    },
+    {
+      "name": "Recuperación 2",
+      "duration_s": 240,
+      "target_watts": 130,
+      "zone": "Z1"
+    },
+    {
+      "name": "Sweet Spot Bloque 3",
+      "duration_s": 600,
+      "target_watts": 230,
+      "zone": "Z4"
+    },
+    {
+      "name": "Vuelta a la calma",
+      "duration_s": 360,
+      "target_watts": 110,
+      "zone": "Z1"
+    }
+  ]
+}

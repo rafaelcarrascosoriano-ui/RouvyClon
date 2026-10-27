@@ -1,0 +1,82 @@
+{
+  "id": "tabata_hiit",
+  "name": "Micro-Intervalos HIIT 30/30",
+  "description": "8 repeticiones de 30 segundos anaeróbicos seguidos de 30 segundos suaves.",
+  "author": "Sprint Academy",
+  "ftp": 250,
+  "totalDuration_s": 1200,
+  "intervals": [
+    {
+      "name": "Calentamiento Aeróbico",
+      "duration_s": 300,
+      "target_watts": 140,
+      "zone": "Z2"
+    },
+    {
+      "name": "Activación Ligera",
+      "duration_s": 60,
+      "target_watts": 190,
+      "zone": "Z3"
+    },
+    {
+      "name": "Pausa Previa",
+      "duration_s": 60,
+      "target_watts": 110,
+      "zone": "Z1"
+    },
+    {
+      "name": "Sprint 1",
+      "duration_s": 30,
+      "target_watts": 350,
+      "zone": "Z6"
+    },
+    {
+      "name": "Recuperación",
+      "duration_s": 30,
+      "target_watts": 110,
+      "zone": "Z1"
+    },
+    {
+      "name": "Sprint 2",
+      "duration_s": 30,
+      "target_watts": 350,
+      "zone": "Z6"
+    },
+    {
+      "name": "Recuperación",
+      "duration_s": 30,
+      "target_watts": 110,
+      "zone": "Z1"
+    },
+    {
+      "name": "Sprint 3",
+      "duration_s": 30,
+      "target_watts": 350,
+      "zone": "Z6"
+    },
+    {
+      "name": "Recuperación",
+      "duration_s": 30,
+      "target_watts": 110,
+      "zone": "Z1"
+    },
+    {
+      "name": "Sprint 4",
+      "duration_s": 30,
+      "target_watts": 360,
+      "zone": "Z6"
+    },
+    {
+      "name": "Recuperación",
+      "duration_s": 30,
+      "target_watts": 110,
+      "zone": "Z1"
+    },
+    {
+      "name": "Enfriamiento",
+      "duration_s": 300,
+      "target_watts": 110,
+      "zone": "Z1"
+    }
+  ]
+}

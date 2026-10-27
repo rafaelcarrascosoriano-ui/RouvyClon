@@ -1,0 +1,76 @@
+{
+  "id": "vo2max_4x4",
+  "name": "VO2 Max 4x4 - Intervalos de Potencia",
+  "description": "4 bloques de 4 minutos al 115% de FTP con 3 minutos de recuperación activa.",
+  "author": "Rouvy Coach Pro",
+  "ftp": 250,
+  "totalDuration_s": 2160,
+  "intervals": [
+    {
+      "name": "Calentamiento Z1/Z2",
+      "duration_s": 300,
+      "target_watts": 135,
+      "zone": "Z2"
+    },
+    {
+      "name": "Rampa Progresiva",
+      "duration_s": 180,
+      "target_watts": 200,
+      "zone": "Z3"
+    },
+    {
+      "name": "Recuperación Previa",
+      "duration_s": 60,
+      "target_watts": 120,
+      "zone": "Z1"
+    },
+    {
+      "name": "Intervalo 1 - VO2 Max",
+      "duration_s": 240,
+      "target_watts": 290,
+      "zone": "Z5"
+    },
+    {
+      "name": "Descanso Activo 1",
+      "duration_s": 180,
+      "target_watts": 135,
+      "zone": "Z1"
+    },
+    {
+      "name": "Intervalo 2 - VO2 Max",
+      "duration_s": 240,
+      "target_watts": 290,
+      "zone": "Z5"
+    },
+    {
+      "name": "Descanso Activo 2",
+      "duration_s": 180,
+      "target_watts": 135,
+      "zone": "Z1"
+    },
+    {
+      "name": "Intervalo 3 - VO2 Max",
+      "duration_s": 240,
+      "target_watts": 290,
+      "zone": "Z5"
+    },
+    {
+      "name": "Descanso Activo 3",
+      "duration_s": 180,
+      "target_watts": 135,
+      "zone": "Z1"
+    },
+    {
+      "name": "Intervalo 4 - VO2 Max Final",
+      "duration_s": 240,
+      "target_watts": 295,
+      "zone": "Z5"
+    },
+    {
+      "name": "Enfriamiento Suave",
+      "duration_s": 300,
+      "target_watts": 110,
+      "zone": "Z1"
+    }
+  ]
+}

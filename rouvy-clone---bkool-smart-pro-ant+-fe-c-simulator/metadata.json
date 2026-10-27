@@ -1,0 +1,6 @@
+{
+  "name": "Rouvy Clone - Bkool Smart Pro ANT+ FE-C Simulator",
+  "description": "Simulador interactivo de ciclismo en interiores estilo Rouvy para rodillo Bkool Smart Pro mediante WebUSB ANT+ FE-C, carga local de MP4/GPX y sincronización de resistencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
